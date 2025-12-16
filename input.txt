@@ -1,0 +1,6 @@
+Bonjour tout le monde
+Ceci est un fichier texte
+Pour l'exercice de TP
+Java IO est intéressant
+Les flux permettent de manipuler les fichiers
+Fin du fichier
